@@ -1,0 +1,23 @@
+{
+  "name": "smsapi",
+  "version": "1.0.0",
+  "description": "twiliosmsapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikunj-oss/smsapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikunj-oss/smsapi/issues"
+  },
+  "homepage": "https://github.com/nikunj-oss/smsapi#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twilio": "^3.84.0"
+  }
+}
